@@ -1,0 +1,6 @@
+{
+  "name": "Flujo CRM - Gestión de Proyectos y Productividad",
+  "description": "Plataforma CRM moderna y ágil para gestión integral de portafolios, proyectos, avance, carga de trabajo, tareas, notas y equipos con diseño Soft UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
